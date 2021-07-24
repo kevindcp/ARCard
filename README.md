@@ -11,4 +11,5 @@ Este proyecto fue realizado para la materia de Realidad Aumentada durante el tri
 Autores: 
 
 Kevin Chacón 13-10268
+
 Marco Benitez 13-10137
